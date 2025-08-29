@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a **Software Engineering student** passionat
 
 * Core programming in **C, Java (OOP), and JavaScript**
 * **Web development** with HTML, CSS, and modern frameworks
-* **Backend fundamentals** with Node.js, MySQL, and Laravel
+* **Backend fundamentals** with Node.js, Express.js & Mongo DB
 
 ### 💡 What I Do Here
 
