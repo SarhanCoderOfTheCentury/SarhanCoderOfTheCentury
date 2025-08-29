@@ -1,12 +1,6 @@
-Perfect 💜 that special repo (`<username>/<username>`) is your **GitHub Profile README**, which shows up right at the top of your profile. A good description makes you look professional, approachable, and highlights your journey.
-
-Here’s a nice **general-purpose description** for a student/developer like you 👇
-
----
-
 ## 👋 Hi, I’m Sarhan
 
-Welcome to my GitHub profile! I’m a **Computer Science student** passionate about building simple, UI-friendly applications and exploring full-stack development.
+Welcome to my GitHub profile! I’m a **Software Engineering student** passionate about building simple, UI-friendly applications and exploring full-stack development.
 
 ### 🚀 What I’m Learning
 
@@ -17,22 +11,21 @@ Welcome to my GitHub profile! I’m a **Computer Science student** passionate ab
 ### 💡 What I Do Here
 
 * Share my **study projects & practice exercises**
+* Devolop useful web apps integrated with AI such as OpenAI, Deepseek, Gemini
 * Build **mini apps & games** to strengthen concepts
 * Explore **open-source contributions** as I grow
 
 ### 🎯 Current Goals
 
-* Master **Flutter** for mobile apps
-* Get better at **data structures & algorithms**
-* Collaborate on beginner-friendly open-source projects
+* Devolop** UI-friendly** web apps using modern technologies such as MERN
+* Explore **backend technologies** like NodeJS, ExpressJS, Flask(Python)
+* Efficiently **integrate AI**, to build smart & scalable softwares
+* Explore **AI automation** & how to devolop appplications around them
 
 ### 🤝 Let’s Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com)
-* 🌐 [Portfolio Website](https://yourwebsite.com) *(if you have one)*
+* 💼 [LinkedIn](https://www.linkedin.com/in/sarhan-ahmed-1935b9341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* 🌐 [Portfolio Website]
 
 ---
 
-✨ This balances **student vibe + professional tone**. You can tweak it depending on whether you want it **short & clean** or **detailed & fancy (with badges, stats, etc.)**.
-
-👉 Do you want me to make you a **stylish version with GitHub stats, streaks, badges, and icons** (like you see on many cool profiles)?
