@@ -22,11 +22,6 @@ Welcome to my GitHub profile! I’m a **Software Engineering student** passionat
 * Efficiently **integrate AI**, to build smart & scalable softwares
 * Explore **AI automation** & how to devolop appplications around them
 
-Perfect ⚡ Let’s give your **Projects section** a polished, portfolio-like feel using **badges + icons + expandable sections**.
-This way, visitors can **quickly scan** or **expand for details**.
-
-Here’s a ready-to-drop **README snippet** for you:
-
 ---
 
 ## 🚀 Projects
@@ -41,7 +36,7 @@ Here’s a ready-to-drop **README snippet** for you:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=000)
 
 A fun and interactive browser-based **Tic Tac Toe** game, built with pure **HTML, CSS, and JavaScript**.
-✨ Features a **sleek design**, **responsive layout**, and endless replayability.
+A modern Tic Tac Toe game built with HTML, CSS, and JavaScript. The game offers **smooth animations**, a **score-tracking system**, and **sound effects** for an engaging experience. Designed to be fun, **responsive**, and easy to play for all ages.
 
 🔗 [View Repository](https://github.com/SarhanCoderOfTheCentury/Tic-Tac-Toe-Game)
 
@@ -49,7 +44,7 @@ A fun and interactive browser-based **Tic Tac Toe** game, built with pure **HTML
 
 ---
 
-### 💻 University Java Projects
+### 💻 University Projects
 
 <details>  
 <summary><b>AI-Powered Health Consultancy System 🚑</b></summary>  
@@ -70,11 +65,7 @@ A **Java + MySQL system** that:
 
 ---
 
-### ✨ How this structure helps
 
-* **Clean & professional** → badges give a quick tech overview.
-* **Expandable sections** → keeps README neat while allowing details.
-* **Portfolio-ready** → looks good when recruiters or collaborators check your profile.
 
 ---
 
@@ -83,5 +74,5 @@ A **Java + MySQL system** that:
 * 💼 [LinkedIn](https://www.linkedin.com/in/sarhan-ahmed-1935b9341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * 🌐 [Portfolio Website]
 
----
+
 
