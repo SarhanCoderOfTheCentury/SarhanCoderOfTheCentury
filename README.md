@@ -59,9 +59,10 @@ A **Java + MySQL system** that:
 * Logs consultations with AI-generated advice
 * Integrates **DeepSeek AI API** for medical guidance
 
-🔗 [View Repository](#) (https://github.com/SarhanCoderOfTheCentury/AI-Health-Consultant)
+🔗 [View Repository] (https://github.com/SarhanCoderOfTheCentury/AI-Health-Consultant)
 
 </details>  
+
 
 ---
 
