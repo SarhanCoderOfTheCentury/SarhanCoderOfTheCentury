@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I’m a **Software Engineering student** passionat
 
 ### 🎯 Current Goals
 
-* Devolop** UI-friendly** web apps using modern technologies such as MERN
+* Devolop ** UI-friendly**  web apps using modern technologies such as MERN
 * Explore **backend technologies** like NodeJS, ExpressJS, Flask(Python)
 * Efficiently **integrate AI**, to build smart & scalable softwares
 * Explore **AI automation** & how to devolop appplications around them
@@ -59,7 +59,7 @@ A **Java + MySQL system** that:
 * Logs consultations with AI-generated advice
 * Integrates **DeepSeek AI API** for medical guidance
 
-🔗 [View Repository] (https://github.com/SarhanCoderOfTheCentury/AI-Health-Consultant)
+🔗 [View Repository](https://github.com/SarhanCoderOfTheCentury/AI-Health-Consultant)
 
 </details>  
 
