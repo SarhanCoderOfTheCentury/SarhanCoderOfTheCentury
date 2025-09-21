@@ -66,7 +66,20 @@ A **Java + MySQL system** that:
 
 ---
 
+<details> <summary><b>Mini Banking System 🏦 (C Project)</b></summary>
 
+A **C-based file handling system** that:
+
+- Creates and manages multiple bank accounts  
+- Allows deposits, withdrawals, and balance checks  
+- Saves and updates account data in a text file (`accounts.txt`)  
+- Beginner-friendly project demonstrating **structures + file I/O in C**
+
+🔗 [View Repository](#) (https://github.com/SarhanCoderOfTheCentury/Mini-Banking-System.git)
+
+</details>
+
+---
 
 
 ### 🤝 Let’s Connect
