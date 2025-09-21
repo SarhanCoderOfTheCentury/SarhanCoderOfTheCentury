@@ -40,7 +40,7 @@ A modern Tic Tac Toe game built with HTML, CSS, and JavaScript. The game offers 
 
 🔗 [View Repository](https://github.com/SarhanCoderOfTheCentury/Tic-Tac-Toe-Game)
 <p align="center">
-  <img src="tic-tac-toe.png" width="400" alt="Tic Tac Toe Screenshot"/>
+  <img src="tic-tac-toe.PNG" width="400" alt="Tic Tac Toe Screenshot"/>
 </p>
 
 </details>  
