@@ -39,6 +39,9 @@ A fun and interactive browser-based **Tic Tac Toe** game, built with pure **HTML
 A modern Tic Tac Toe game built with HTML, CSS, and JavaScript. The game offers **smooth animations**, a **score-tracking system**, and **sound effects** for an engaging experience. Designed to be fun, **responsive**, and easy to play for all ages.
 
 🔗 [View Repository](https://github.com/SarhanCoderOfTheCentury/Tic-Tac-Toe-Game)
+<p align="center">
+  <img src="tic-tac-toe.png" width="400" alt="Tic Tac Toe Screenshot"/>
+</p>
 
 </details>  
 
